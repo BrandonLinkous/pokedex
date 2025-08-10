@@ -1,1 +1,3 @@
 # Pokédex
+
+## Contributing
